@@ -19,3 +19,7 @@ C++ Standard Library provides several container classes, each designed for speci
 - _std::priority_queue_: Like a regular queue, but elements are ordered by priority.
 
 Each of these data structures has its own unique properties and use cases, and the choice of which one to use depends on the specific requirements of your program.
+
+## Definition
+
+The term "container" in the context of C++ programming refers to a class or a data type whose instances are collections of other objects. In other words, containers store objects and manage their lifetime based on the container's scope. They are a part of the C++ Standard Template Library (STL), which provides a rich set of container classes such as vector, list, deque, map, set, and so on. T
